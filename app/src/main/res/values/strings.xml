@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MeasureIt</string>
+
+    <string-array name="conversion_types">
+        <item>Distance</item>
+        <item>Temperature</item>
+        <item>Weight</item>
+    </string-array>
+
+    <string-array name="distance_units">
+        <item>Kilometers</item>
+        <item>Meters</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Grams</item>
+        <item>Kilograms</item>
+    </string-array>
+
+</resources>
